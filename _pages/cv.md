@@ -11,7 +11,6 @@ redirect_from:
 
 Education
 ======
-* 
 * Bachelor of Engineering, School of Computer Science and Engineering, Southeas University, 2018-2022
 * Visiting Student, University of California Berkeley, 2021 Summer
 
