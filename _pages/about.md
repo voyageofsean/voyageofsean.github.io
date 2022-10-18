@@ -10,16 +10,16 @@ redirect_from:
 
 This is Chunshu Li.
 
-I am currently an undergraduate student at School of Computer Science and Engineering, Southeast University, Nanjing. 
+I am currently working on a Master's program on Machine Learning at School of Computer Science and Engineering, Southeast University, Nanjing. I am supervised by Professor [Min-Ling Zhang](http://palm.seu.edu.cn/zhangml/).
+
+Previously I was working with [Beilun Wang](https://cse.seu.edu.cn/2019/0105/c23024a257533/page.htm) and [Meng Wang](http://seu.wangmengsd.com/) on graph mining and knowledge graph.
 
 Research
 ---
-I major in AI. My research interest is deep learning for graphs and NLP. 
-
-Currently, I am working on neuro-symbolic systems for question answering, i.e., integrating symbolic reasoning into neural QA systems.
+I primarily study machine learning and data mining. I have previously worked on graph neural networks, information retrieval, recommendation systems, and natural language processing.
 
 Personal interests
 ---
-- TRPG. I love playing [Call of Cthulhu](https://en.wikipedia.org/wiki/Call_of_Cthulhu_(role-playing_game)) TRPG with my colleagues. Also, I love CRPGs that involve TRPG elements, such as [Disco Elysium](https://en.wikipedia.org/wiki/Disco_Elysium) and the [Divinity](https://en.wikipedia.org/wiki/Divinity_(series)) series.
+- TRPG. I love playing Call of Cthulhu and DND TRPG with my colleagues. 
 
-- Philosophy. I prefer reflecting on ontologies and values to sticking to some ideologies. Currently I am studying [Psychoanalysis](https://en.wikipedia.org/wiki/Psychoanalysis) and [Semiotics](https://en.wikipedia.org/wiki/Semiotics).
+- Philosophy. I am studying [Friedrich Schelling](https://en.wikipedia.org/wiki/Friedrich_Wilhelm_Joseph_Schelling).
