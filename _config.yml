@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chunshu Li"
 title_separator          : "-"
 name                     : &name "Chunshu Li"
-description              : &description "Undergraduate at Southeast University"
+description              : &description "Graduate student at Southeast University"
 url                      : https://voyageofsean.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "voyageofsean.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chunshu Li"
   avatar           : "profile-chunshuli.jpg"
-  bio              : "Undergraduate at Southeast University. Majoring in AI."
+  bio              : "Graduate at Southeast University. Majoring in AI."
   location         : "Nanjing, China"
   employer         :
   pubmed           : 
