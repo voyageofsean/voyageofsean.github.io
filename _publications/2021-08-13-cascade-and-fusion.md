@@ -1,7 +1,7 @@
 ---
 title: "Cascade and Fusion: A Deep Learning Approach for Camouflaged Object Sensing"
 collection: publications
-permalink: /publication/2021-8-13-cascade-and-fusion
+permalink: /publication/2021-08-13-cascade-and-fusion
 date: 2021-08-13
 venue: 'Sensors'
 citation: 'Huang, Kaihong, Chunshu Li, Jiaqi Zhang, and Beilun Wang. 2021. "Cascade and Fusion: A Deep Learning Approach for Camouflaged Object Sensing". Sensors 21, no. 16: 5455. https://doi.org/10.3390/s21165455.'
