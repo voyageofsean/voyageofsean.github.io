@@ -25,6 +25,7 @@ Education
 Awards
 ---
 - **2022/11**: First Class Academic Award, Southeast University
+- **2022/06**: Outstanding Graduate, Southeast University
 - **2021/11**: Huawei Smart Socket Fellowship
 - **2021/09**: First Prize, Challenge Cup Competition
 - **2021/03**: Merit Student, granted by the Education Department of the Jiangsu Province
