@@ -17,7 +17,7 @@ Education
 
 Work experience
 ---
-#### 2024/05-2024/08: Machine Learning Algorithm Development Intern at Meituan
+### 2024/05-2024/08: Machine Learning Algorithm Development Intern at Meituan
   - At Content Comprehension Team, Dianping BD
   - Working on applying LLMs on generating content labels and reducing human supervision
 
